@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\bin\Debug\net8.0\C# String, Array methods.exe
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\bin\Debug\net8.0\C# String, Array methods.deps.json
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\bin\Debug\net8.0\C# String, Array methods.runtimeconfig.json
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\bin\Debug\net8.0\C# String, Array methods.dll
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\bin\Debug\net8.0\C# String, Array methods.pdb
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\obj\Debug\net8.0\C# String, Array methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\obj\Debug\net8.0\C# String, Array methods.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\obj\Debug\net8.0\C# String, Array methods.AssemblyInfo.cs
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\obj\Debug\net8.0\C# String, Array methods.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\obj\Debug\net8.0\C# String, Array methods.dll
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\obj\Debug\net8.0\refint\C# String, Array methods.dll
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\obj\Debug\net8.0\C# String, Array methods.pdb
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\obj\Debug\net8.0\C# String, Array methods.genruntimeconfig.cache
+C:\Users\User\Desktop\Task6\C# String, Array methods\C# String, Array methods\obj\Debug\net8.0\ref\C# String, Array methods.dll
